@@ -1,0 +1,17 @@
+# Titan Intake
+> Titan Intake automates incoming referrals, medical records, and patient intake workflows for surgical specialty practices.
+
+Full context: https://www.titanintake.com/llms-full.txt
+
+## Key Pages
+- [Home](https://titanintake.com): Patient intake automation for surgical specialty practices
+- [Product & Solution](https://titanintake.com/product-solution): How Titan Intake works, FAQs, and HIPAA compliance
+- [About](https://titanintake.com/about): Team and mission
+- [Customer Stories](https://titanintake.com/stories): Case studies and results
+- [Insights](https://titanintake.com/insights): Articles on healthcare AI, referral workflows, and operations
+- [Contact](https://titanintake.com/contact): Request a demo
+
+## Contact
+Website: https://titanintake.com
+Phone: +1-801-387-3768
+Headquarters: Tulsa, Oklahoma, United States
