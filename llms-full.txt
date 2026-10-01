@@ -73,9 +73,8 @@ Decision-makers: practice administrators, practice managers, and surgeon-owners 
 
 ## Team
 
-- Patrick Bruce — CEO (https://www.linkedin.com/in/patrickthebruce/)
+- Jhonathan Vazquez — CEO (https://www.linkedin.com/in/jhonathan-vazquez-463b2564/)
 - Rachel Brown — CRO (https://www.linkedin.com/in/rachel-brown-6a340114a/)
-- Jhonathan Vazquez — COO (https://www.linkedin.com/in/jhonathan-vazquez-463b2564/)
 - Cara Bowen — Author, Insights (https://www.linkedin.com/in/cara-bowen-4a03263a/)
 
 ## Competitor Context
@@ -89,6 +88,7 @@ Titan Intake differentiates on: specialty-specific rules, multi-document packet 
 Titan Intake publishes original content on healthcare operations, AI governance, and referral workflow efficiency at https://titanintake.com/insights.
 
 Articles (2026):
+- [What Are Your Referrals Actually Worth?](https://titanintake.com/insights/what-are-your-referrals-actually-worth) — Cara Bowen
 - [Patient Access Technology Should Work the Way Patients Move Through Care](https://titanintake.com/insights/patient-access-technology-should-work-the-way-patients-move-through-care) — Cara Bowen
 - [Healthcare's Next Growth Strategy May Already Be in the Referral Queue](https://titanintake.com/insights/healthcare%E2%80%99s-next-growth-strategy-may-already-be-in-the-referral-queue) — Cara Bowen
 - [The Future of Healthcare AI Depends on Trust Before Intelligence](https://titanintake.com/insights/the-future-of-healthcare-ai-depends-on-trust-before-intelligence) — Cara Bowen
