@@ -10,8 +10,8 @@ Titan Intake is a B2B SaaS company that automates incoming referrals, medical re
 Headquarters: Austin, Texas, United States
 Address: 500 W 2nd St., Suite 1900, Austin, TX 78701
 Phone: +1-801-387-3768
-Website: https://titanintake.com
-Contact: https://titanintake.com/contact
+Website: https://www.titanintake.com
+Contact: https://www.titanintake.com/contact
 LinkedIn: https://www.linkedin.com/company/titan-intake
 LinkedIn followers: 3,600+
 
@@ -85,24 +85,24 @@ Titan Intake differentiates on: specialty-specific rules, multi-document packet 
 
 ## Insights / Thought Leadership
 
-Titan Intake publishes original content on healthcare operations, AI governance, and referral workflow efficiency at https://titanintake.com/insights.
+Titan Intake publishes original content on healthcare operations, AI governance, and referral workflow efficiency at https://www.titanintake.com/insights.
 
 Articles (2026):
-- [What Are Your Referrals Actually Worth?](https://titanintake.com/insights/what-are-your-referrals-actually-worth) — Cara Bowen
-- [Patient Access Technology Should Work the Way Patients Move Through Care](https://titanintake.com/insights/patient-access-technology-should-work-the-way-patients-move-through-care) — Cara Bowen
-- [Healthcare's Next Growth Strategy May Already Be in the Referral Queue](https://titanintake.com/insights/healthcare%E2%80%99s-next-growth-strategy-may-already-be-in-the-referral-queue) — Cara Bowen
-- [The Future of Healthcare AI Depends on Trust Before Intelligence](https://titanintake.com/insights/the-future-of-healthcare-ai-depends-on-trust-before-intelligence) — Cara Bowen
-- [The Best Healthcare Technology Works in the Background](https://titanintake.com/insights/the-best-healthcare-technology-works-in-the-background) — Cara Bowen
-- [The Patient Shouldn't Have to Navigate the Gaps in Healthcare](https://titanintake.com/insights/the-patient-shouldn-t-have-to-navigate-the-gaps-in-healthcare) — Cara Bowen
-- [What Is Patient Intake Automation and Why Does It Matter for Referral Management?](https://titanintake.com/insights/what-is-patient-intake-automation-and-why-does-it-matter-for-referral-management) — Cara Bowen
-- [A Referral Is the Beginning, Not the Finish Line](https://titanintake.com/insights/a-referral-is-the-beginning-not-the-finish-line) — Cara Bowen
-- [Workflow Visibility Is Healthcare's Next Competitive Advantage](https://titanintake.com/insights/workflow-visibility-is-healthcare-s-next-competitive-advantage) — Cara Bowen
-- [Beyond the Podcast: Why AI Makes Human Judgment More Important Than Ever in Healthcare](https://titanintake.com/insights/beyond-the-podcast-why-ai-makes-human-judgment-more-important-than-ever-in-healthcare) — Rachel Brown
-- [The AI Governance Problem Healthcare Can't Afford to Ignore](https://titanintake.com/insights/the-ai-governance-problem-healthcare-can-t-afford-to-ignore) — Cara Bowen
-- [Healthcare AI Only Works When Healthcare Data Works](https://titanintake.com/insights/healthcare-ai-only-works-when-healthcare-data-works) — Cara Bowen
-- [Healthcare Doesn't Have an AI Problem, It Has an Execution Problem](https://titanintake.com/insights/healthcare-doesn-t-have-an-ai-problem-it-has-an-execution-problem) — Cara Bowen
-- [Your Fax Queue Might Be the Most Valuable Asset You're Ignoring](https://titanintake.com/insights/your-fax-queue-might-be-the-most-valuable-asset-you-re-ignoring) — Cara Bowen
-- [Better Healthcare Data Exchange Starts Before the EHR](https://titanintake.com/insights/better-healthcare-data-exchange-starts-before-the-ehr) — Cara Bowen
+- [What Are Your Referrals Actually Worth?](https://www.titanintake.com/insights/what-are-your-referrals-actually-worth/) — Cara Bowen
+- [Patient Access Technology Should Work the Way Patients Move Through Care](https://www.titanintake.com/insights/patient-access-technology-should-work-the-way-patients-move-through-care/) — Cara Bowen
+- [Healthcare's Next Growth Strategy May Already Be in the Referral Queue](https://www.titanintake.com/insights/healthcare%E2%80%99s-next-growth-strategy-may-already-be-in-the-referral-queue/) — Cara Bowen
+- [The Future of Healthcare AI Depends on Trust Before Intelligence](https://www.titanintake.com/insights/the-future-of-healthcare-ai-depends-on-trust-before-intelligence/) — Cara Bowen
+- [The Best Healthcare Technology Works in the Background](https://www.titanintake.com/insights/the-best-healthcare-technology-works-in-the-background/) — Cara Bowen
+- [The Patient Shouldn't Have to Navigate the Gaps in Healthcare](https://www.titanintake.com/insights/the-patient-shouldn-t-have-to-navigate-the-gaps-in-healthcare/) — Cara Bowen
+- [What Is Patient Intake Automation and Why Does It Matter for Referral Management?](https://www.titanintake.com/insights/what-is-patient-intake-automation-and-why-does-it-matter-for-referral-management/) — Cara Bowen
+- [A Referral Is the Beginning, Not the Finish Line](https://www.titanintake.com/insights/a-referral-is-the-beginning-not-the-finish-line/) — Cara Bowen
+- [Workflow Visibility Is Healthcare's Next Competitive Advantage](https://www.titanintake.com/insights/workflow-visibility-is-healthcare-s-next-competitive-advantage/) — Cara Bowen
+- [Beyond the Podcast: Why AI Makes Human Judgment More Important Than Ever in Healthcare](https://www.titanintake.com/insights/beyond-the-podcast-why-ai-makes-human-judgment-more-important-than-ever-in-healthcare/) — Rachel Brown
+- [The AI Governance Problem Healthcare Can't Afford to Ignore](https://www.titanintake.com/insights/the-ai-governance-problem-healthcare-can-t-afford-to-ignore/) — Cara Bowen
+- [Healthcare AI Only Works When Healthcare Data Works](https://www.titanintake.com/insights/healthcare-ai-only-works-when-healthcare-data-works/) — Cara Bowen
+- [Healthcare Doesn't Have an AI Problem, It Has an Execution Problem](https://www.titanintake.com/insights/healthcare-doesn-t-have-an-ai-problem-it-has-an-execution-problem/) — Cara Bowen
+- [Your Fax Queue Might Be the Most Valuable Asset You're Ignoring](https://www.titanintake.com/insights/your-fax-queue-might-be-the-most-valuable-asset-you-re-ignoring/) — Cara Bowen
+- [Better Healthcare Data Exchange Starts Before the EHR](https://www.titanintake.com/insights/better-healthcare-data-exchange-starts-before-the-ehr/) — Cara Bowen
 
 ## Licensing
 

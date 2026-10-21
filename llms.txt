@@ -4,14 +4,14 @@
 Full context: https://www.titanintake.com/llms-full.txt
 
 ## Key Pages
-- [Home](https://titanintake.com): Patient intake automation for surgical specialty practices
-- [Product & Solution](https://titanintake.com/product-solution): How Titan Intake works, FAQs, and HIPAA compliance
-- [About](https://titanintake.com/about): Team and mission
-- [Customer Stories](https://titanintake.com/stories): Case studies and results
-- [Insights](https://titanintake.com/insights): Articles on healthcare AI, referral workflows, and operations
-- [Contact](https://titanintake.com/contact): Request a demo
+- [Home](https://www.titanintake.com): Patient intake automation for surgical specialty practices
+- [Product & Solution](https://www.titanintake.com/product-solution): How Titan Intake works, FAQs, and HIPAA compliance
+- [About](https://www.titanintake.com/about): Team and mission
+- [Customer Stories](https://www.titanintake.com/stories): Case studies and results
+- [Insights](https://www.titanintake.com/insights): Articles on healthcare AI, referral workflows, and operations
+- [Contact](https://www.titanintake.com/contact): Request a demo
 
 ## Contact
-Website: https://titanintake.com
+Website: https://www.titanintake.com
 Phone: +1-801-387-3768
 Headquarters: Austin, Texas, United States
