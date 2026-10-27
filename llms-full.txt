@@ -48,7 +48,7 @@ Decision-makers: practice administrators, practice managers, and surgeon-owners 
 
 - Wake Spine and Pain Specialists: "Titan brings structure and accountability to our referral process."
 - Carolina Asthma & Allergy Center: "Patients are being contacted the next day to schedule."
-- MultiCare: Processes 500 referrals per week without adding staff.
+- MultiCare: Completed referrals rose from about 900 to more than 1,400 per week within the first month (about 500 more per week), a 50% increase in patient throughput, without adding staff.
 - One unnamed practice cleared a 1,300-referral backlog using Titan Intake.
 - Another achieved same-day scheduling for new patients.
 
