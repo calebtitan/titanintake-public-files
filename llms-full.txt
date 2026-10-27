@@ -88,6 +88,7 @@ Titan Intake differentiates on: specialty-specific rules, multi-document packet 
 Titan Intake publishes original content on healthcare operations, AI governance, and referral workflow efficiency at https://www.titanintake.com/insights.
 
 Articles (2026):
+- [The Best Healthcare Technology May Be Measured by the Work That Disappears](https://www.titanintake.com/insights/the-best-healthcare-technology-may-be-measured-by-the-work-that-disappears/) — Cara Bowen
 - [What Are Your Referrals Actually Worth?](https://www.titanintake.com/insights/what-are-your-referrals-actually-worth/) — Cara Bowen
 - [Patient Access Technology Should Work the Way Patients Move Through Care](https://www.titanintake.com/insights/patient-access-technology-should-work-the-way-patients-move-through-care/) — Cara Bowen
 - [Healthcare's Next Growth Strategy May Already Be in the Referral Queue](https://www.titanintake.com/insights/healthcare%E2%80%99s-next-growth-strategy-may-already-be-in-the-referral-queue/) — Cara Bowen
