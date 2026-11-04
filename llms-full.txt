@@ -88,6 +88,7 @@ Titan Intake differentiates on: specialty-specific rules, multi-document packet 
 Titan Intake publishes original content on healthcare operations, AI governance, and referral workflow efficiency at https://www.titanintake.com/insights.
 
 Articles (2026):
+- [The Most Expensive Part of Healthcare Technology May Be the Wait](https://www.titanintake.com/insights/the-most-expensive-part-of-healthcare-technology-may-be-the-wait/) — Cara Bowen
 - [The Best Healthcare Technology May Be Measured by the Work That Disappears](https://www.titanintake.com/insights/the-best-healthcare-technology-may-be-measured-by-the-work-that-disappears/) — Cara Bowen
 - [What Are Your Referrals Actually Worth?](https://www.titanintake.com/insights/what-are-your-referrals-actually-worth/) — Cara Bowen
 - [Patient Access Technology Should Work the Way Patients Move Through Care](https://www.titanintake.com/insights/patient-access-technology-should-work-the-way-patients-move-through-care/) — Cara Bowen
