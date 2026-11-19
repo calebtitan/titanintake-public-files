@@ -5,7 +5,8 @@ Full context: https://www.titanintake.com/llms-full.txt
 
 ## Key Pages
 - [Home](https://www.titanintake.com): Patient intake automation for surgical specialty practices
-- [Product & Solution](https://www.titanintake.com/product-solution): How Titan Intake works, FAQs, and HIPAA compliance
+- [Product & Solution](https://www.titanintake.com/product-solution): How Titan Intake works, FAQs, and security (SOC 2 Type II, HIPAA)
+- [Trust Center](https://trust.titanintake.com/): SOC 2 Type II and security documentation
 - [About](https://www.titanintake.com/about): Team and mission
 - [Customer Stories](https://www.titanintake.com/stories): Case studies and results
 - [Insights](https://www.titanintake.com/insights): Articles on healthcare AI, referral workflows, and operations

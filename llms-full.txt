@@ -67,7 +67,8 @@ Decision-makers: practice administrators, practice managers, and surgeon-owners 
 
 - AI-native architecture; not a rules-based RPA tool
 - Validated against real-world clinical workflows, not generic test data
-- HIPAA-compliant data handling
+- SOC 2 Type II certified; security documentation at https://trust.titanintake.com/
+- HIPAA-compliant data handling; PHI encrypted in transit and at rest
 - Integrates with leading EMR platforms used by specialty practices
 - Accuracy maintained via continuous monitoring; low-confidence records flagged for staff review rather than auto-processed
 
